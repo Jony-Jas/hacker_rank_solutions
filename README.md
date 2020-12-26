@@ -1,6 +1,6 @@
 # Hacker Rank Solutions With C Programming
 
-All Questions are from http://hackerrank.com 
+All Questions are from http://hackerrank.com (Pracctice Problem)
 
 >For education pourpose only :notebook_with_decorative_cover:
 
