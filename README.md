@@ -6,10 +6,11 @@ All Questions are from http://hackerrank.com (Problem Solving)
 
 >Use this for any doubt clearence :open_book:
 
->Any queries fell free to ask :smiley:
+>Any queries feel free to ask :smiley:
 
 #### Made with Codeblocks 
 
-###### Instagram: https://www.instagram.com/jonyrockstar7/
-###### Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
-###### Github: https://github.com/Jony-Jas/
+* Instagram: https://www.instagram.com/jonyrockstar7/
+* Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
+* Github: https://github.com/Jony-Jas/
+* HackerRank: https://www.hackerrank.com/Jony_Jas
