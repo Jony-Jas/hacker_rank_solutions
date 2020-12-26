@@ -8,8 +8,8 @@ All Questions are from http://hackerrank.com (Problem Solving)
 
 >Any queries feel free to ask :smiley:
 
-#### Made with Codeblocks 
-
+Coded in Codeblocks (http://www.codeblocks.org/)
+#### Connect with me:
 * Instagram: https://www.instagram.com/jonyrockstar7/
 * Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
 * Github: https://github.com/Jony-Jas/
